@@ -1,6 +1,6 @@
 <p align="left"> </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi👋+I%27m+Ömer+Faruk+AKYAPAK+Welcome!+)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Hi👋+I%27m+Ömer+Faruk+AKYAPAK+Welcome!+)
 
 <div align="center">
 
