@@ -17,5 +17,5 @@
 </a>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mogretici&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=OmerFarukAkyapak&style=for-the-badge&color=red" align="center" />
 </div>  
