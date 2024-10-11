@@ -11,7 +11,7 @@ I specialize in .NET technologies, and I have experience working with:
 * XAML
 
 # 🌱 My Interests
-Since my university years, I've been deeply interested in Process Tracking, MES, MOM, and ERP systems. In 2021, I developed my first MES project with two talented colleagues, and that experience sparked my continued passion for these areas. Helping manufacturing companies optimize their processes and contribute to innovation excites me.
+Since my university years, I've been deeply interested in Process Tracking with IoT, MES, MOM, SCADA and ERP systems. In 2021, I developed my first MES project with two talented colleagues, and that experience sparked my continued passion for these areas. Helping manufacturing companies optimize their processes and contribute to innovation excites me.
 
 # 📚 Sharing Knowledge
 I believe in continuous learning and the importance of sharing knowledge. I frequently write about my experiences and insights on platforms like Medium. If you’re interested in reading about my work, feel free to check out my Medium account.
